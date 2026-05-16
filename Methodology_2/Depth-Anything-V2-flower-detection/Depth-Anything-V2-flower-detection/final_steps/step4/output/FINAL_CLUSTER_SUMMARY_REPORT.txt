@@ -1,0 +1,190 @@
+APPLE BLOSSOM CLUSTER ANALYSIS - FINAL REPORT
+======================================================================
+
+Total images processed: 25
+
+Per-Image Summary:
+----------------------------------------------------------------------
+100.png
+  Total Clusters: 43
+    Small  : 27  (Yellow)
+    Medium : 13 (Green)
+    Large  : 3  (Orange)
+  Circular buds: 16
+
+101.png
+  Total Clusters: 49
+    Small  : 22  (Yellow)
+    Medium : 23 (Green)
+    Large  : 4  (Orange)
+  Circular buds: 21
+
+102.png
+  Total Clusters: 54
+    Small  : 22  (Yellow)
+    Medium : 23 (Green)
+    Large  : 9  (Orange)
+  Circular buds: 27
+
+103.png
+  Total Clusters: 41
+    Small  : 14  (Yellow)
+    Medium : 19 (Green)
+    Large  : 8  (Orange)
+  Circular buds: 19
+
+104.png
+  Total Clusters: 31
+    Small  : 19  (Yellow)
+    Medium : 12 (Green)
+    Large  : 0  (Orange)
+  Circular buds: 13
+
+105.png
+  Total Clusters: 27
+    Small  : 24  (Yellow)
+    Medium : 3 (Green)
+    Large  : 0  (Orange)
+  Circular buds: 11
+
+106.png
+  Total Clusters: 34
+    Small  : 24  (Yellow)
+    Medium : 9 (Green)
+    Large  : 1  (Orange)
+  Circular buds: 11
+
+107.png
+  Total Clusters: 22
+    Small  : 12  (Yellow)
+    Medium : 9 (Green)
+    Large  : 1  (Orange)
+  Circular buds: 12
+
+108.png
+  Total Clusters: 46
+    Small  : 32  (Yellow)
+    Medium : 13 (Green)
+    Large  : 1  (Orange)
+  Circular buds: 29
+
+13.png
+  Total Clusters: 54
+    Small  : 18  (Yellow)
+    Medium : 31 (Green)
+    Large  : 5  (Orange)
+  Circular buds: 30
+
+15.png
+  Total Clusters: 54
+    Small  : 27  (Yellow)
+    Medium : 19 (Green)
+    Large  : 8  (Orange)
+  Circular buds: 31
+
+17.png
+  Total Clusters: 50
+    Small  : 27  (Yellow)
+    Medium : 16 (Green)
+    Large  : 7  (Orange)
+  Circular buds: 25
+
+18.png
+  Total Clusters: 67
+    Small  : 29  (Yellow)
+    Medium : 27 (Green)
+    Large  : 11  (Orange)
+  Circular buds: 55
+
+31.png
+  Total Clusters: 58
+    Small  : 12  (Yellow)
+    Medium : 22 (Green)
+    Large  : 24  (Orange)
+  Circular buds: 31
+
+43.png
+  Total Clusters: 57
+    Small  : 14  (Yellow)
+    Medium : 37 (Green)
+    Large  : 6  (Orange)
+  Circular buds: 36
+
+44.png
+  Total Clusters: 53
+    Small  : 19  (Yellow)
+    Medium : 24 (Green)
+    Large  : 10  (Orange)
+  Circular buds: 48
+
+49.png
+  Total Clusters: 51
+    Small  : 30  (Yellow)
+    Medium : 19 (Green)
+    Large  : 2  (Orange)
+  Circular buds: 21
+
+51.png
+  Total Clusters: 31
+    Small  : 23  (Yellow)
+    Medium : 8 (Green)
+    Large  : 0  (Orange)
+  Circular buds: 18
+
+52.png
+  Total Clusters: 33
+    Small  : 22  (Yellow)
+    Medium : 11 (Green)
+    Large  : 0  (Orange)
+  Circular buds: 13
+
+57.png
+  Total Clusters: 45
+    Small  : 25  (Yellow)
+    Medium : 18 (Green)
+    Large  : 2  (Orange)
+  Circular buds: 21
+
+58.png
+  Total Clusters: 46
+    Small  : 28  (Yellow)
+    Medium : 17 (Green)
+    Large  : 1  (Orange)
+  Circular buds: 21
+
+61.png
+  Total Clusters: 35
+    Small  : 28  (Yellow)
+    Medium : 7 (Green)
+    Large  : 0  (Orange)
+  Circular buds: 15
+
+64.png
+  Total Clusters: 24
+    Small  : 23  (Yellow)
+    Medium : 1 (Green)
+    Large  : 0  (Orange)
+  Circular buds: 7
+
+68.png
+  Total Clusters: 52
+    Small  : 14  (Yellow)
+    Medium : 26 (Green)
+    Large  : 12  (Orange)
+  Circular buds: 30
+
+77.png
+  Total Clusters: 35
+    Small  : 33  (Yellow)
+    Medium : 2 (Green)
+    Large  : 0  (Orange)
+  Circular buds: 15
+
+======================================================================
+GLOBAL SUMMARY
+----------------------------------------------------------------------
+Total clusters detected: 1092
+  Small  (< 500 edge px): 568  (Yellow)
+  Medium (500–1500 edge px): 409 (Green)
+  Large  (> 1500 edge px): 115  (Orange)
+Total circular buds: 576
