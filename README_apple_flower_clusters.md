@@ -217,14 +217,7 @@ Possible future improvements include:
 ## Author
 
 **Abhishek Singh Suraj**  
-Institute of Logistics Engineering  
-TU Hamburg
 
-## Presentation Information
-
-- Examiner: Prof. Dr. Ing. Jana Jost
-- Presentation date: 13.04.2026
-- Topic: Vision-Based Detection and Density Classification of Apple Flower Clusters
 
 ## References Mentioned in the Presentation
 
